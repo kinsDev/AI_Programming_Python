@@ -162,3 +162,4 @@ class Gaussian():
         plt.show()
 
         return x, y
+
